@@ -1,0 +1,25 @@
+
+.wrapper{
+    background: linear-gradient(90deg,#020024 0,#097945 0,#00d4ff 100%);
+}
+.banner-form{
+    background: #fff;
+    border-radius: 10px;
+}
+.recommended-ads li a{
+    color: #fff;
+}
+.recommended-ads{
+    background: #fff;
+    text-align: center;
+}
+.list-inline{
+    padding: 20px;
+}
+.list-inline li{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0,0,0,.05);
+}
